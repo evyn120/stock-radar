@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-27T02:29:28.934020+00:00",
+  "generated_at": "2026-08-28T05:55:17.776869+00:00",
   "indices": [
     {
       "code": "000001",
       "name": "上证指数",
-      "price": 3916.98,
-      "change_pct": 0.11,
+      "price": 3961.71,
+      "change_pct": 0.13,
       "market": "cn"
     },
     {
       "code": "000300",
       "name": "沪深300",
-      "price": 4591.31,
-      "change_pct": 0.01,
+      "price": 4622.91,
+      "change_pct": -0.16,
       "market": "cn"
     },
     {
       "code": "000688",
       "name": "科创50",
-      "price": 1661.39,
-      "change_pct": 1.8,
+      "price": 1675.2,
+      "change_pct": -1.08,
       "market": "cn"
     }
   ],
@@ -28,7 +28,7 @@
     "up": 2750,
     "down": 1500,
     "flat": 750,
-    "limit_up": 56,
+    "limit_up": 75,
     "limit_down": 2,
     "note": "estimated breadth from index direction; limit up/down from AkShare"
   },
