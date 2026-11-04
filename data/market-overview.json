@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-03T03:30:09.311042+00:00",
+  "generated_at": "2026-11-04T02:05:00.334544+00:00",
   "indices": [
     {
       "code": "000001",
       "name": "上证指数",
-      "price": 3609.37,
-      "change_pct": -0.79,
+      "price": 3602.33,
+      "change_pct": -0.16,
       "market": "cn"
     },
     {
       "code": "000300",
       "name": "沪深300",
-      "price": 4009.17,
-      "change_pct": -0.19,
+      "price": 4005.03,
+      "change_pct": -0.1,
       "market": "cn"
     },
     {
       "code": "000688",
       "name": "科创50",
-      "price": 1162.63,
-      "change_pct": -2.87,
+      "price": 1160.21,
+      "change_pct": 0.78,
       "market": "cn"
     }
   ],
@@ -28,52 +28,52 @@
     "up": 1500,
     "down": 2750,
     "flat": 750,
-    "limit_up": 52,
-    "limit_down": 4,
+    "limit_up": 24,
+    "limit_down": 8,
     "note": "estimated breadth from index direction; limit up/down from AkShare"
   },
   "sectors_top": [
     {
-      "name": "教育运营及其他",
-      "change_pct": 9.25
+      "name": "半导体设备",
+      "change_pct": 3.62
     },
     {
-      "name": "视频媒体",
-      "change_pct": 5.53
+      "name": "种子",
+      "change_pct": 2.74
     },
     {
-      "name": "蓄电池及其他电池",
-      "change_pct": 5.06
+      "name": "影视动漫制作",
+      "change_pct": 2.65
     },
     {
-      "name": "文字媒体",
-      "change_pct": 5.04
+      "name": "钨",
+      "change_pct": 2.32
     },
     {
-      "name": "涂料",
-      "change_pct": 4.4
+      "name": "影视院线",
+      "change_pct": 2.28
     }
   ],
   "sectors_bottom": [
     {
-      "name": "半导体设备",
-      "change_pct": -4.03
+      "name": "水产饲料",
+      "change_pct": -3.6
     },
     {
-      "name": "医疗研发外包",
-      "change_pct": -3.99
+      "name": "医美服务",
+      "change_pct": -3.28
     },
     {
-      "name": "诊断服务",
-      "change_pct": -3.7
+      "name": "乳品",
+      "change_pct": -2.82
     },
     {
-      "name": "通信网络设备及器件",
-      "change_pct": -3.39
+      "name": "饮料乳品",
+      "change_pct": -2.64
     },
     {
-      "name": "半导体材料",
-      "change_pct": -2.96
+      "name": "其他家电Ⅱ",
+      "change_pct": -2.56
     }
   ],
   "status": "ok"
