@@ -1,79 +1,79 @@
 {
-  "generated_at": "2026-11-08T01:18:12.469783+00:00",
+  "generated_at": "2026-11-09T01:38:10.484612+00:00",
   "indices": [
     {
       "code": "000001",
       "name": "上证指数",
-      "price": 3649.18,
-      "change_pct": -1.1,
+      "price": 3656.97,
+      "change_pct": 0.21,
       "market": "cn"
     },
     {
       "code": "000300",
       "name": "沪深300",
-      "price": 4054.28,
-      "change_pct": -1.44,
+      "price": 4058.4,
+      "change_pct": 0.1,
       "market": "cn"
     },
     {
       "code": "000688",
       "name": "科创50",
-      "price": 1253.2,
-      "change_pct": -2.6,
+      "price": 1258.76,
+      "change_pct": 0.44,
       "market": "cn"
     }
   ],
   "breadth": {
     "total": 5000,
-    "up": 1000,
-    "down": 3250,
+    "up": 2750,
+    "down": 1500,
     "flat": 750,
-    "limit_up": 32,
-    "limit_down": 15,
+    "limit_up": 28,
+    "limit_down": 1,
     "note": "estimated breadth from index direction; limit up/down from AkShare"
   },
   "sectors_top": [
     {
-      "name": "视频媒体",
-      "change_pct": 6.25
+      "name": "其他数字媒体",
+      "change_pct": 8.45
     },
     {
-      "name": "种子",
-      "change_pct": 4.64
+      "name": "航天装备Ⅱ",
+      "change_pct": 5.24
+    },
+    {
+      "name": "航天装备Ⅲ",
+      "change_pct": 5.21
+    },
+    {
+      "name": "燃料电池",
+      "change_pct": 5.07
     },
     {
       "name": "卫浴电器",
-      "change_pct": 3.46
-    },
-    {
-      "name": "其他养殖",
-      "change_pct": 3.18
-    },
-    {
-      "name": "电信运营商",
-      "change_pct": 2.87
+      "change_pct": 4.51
     }
   ],
   "sectors_bottom": [
     {
-      "name": "印制电路板",
-      "change_pct": -5.86
+      "name": "种子",
+      "change_pct": -2.04
     },
     {
-      "name": "元件",
-      "change_pct": -5.13
+      "name": "教育运营及其他",
+      "change_pct": -1.61
     },
     {
-      "name": "通信线缆及配套",
-      "change_pct": -4.78
+      "name": "纺织鞋类制造",
+      "change_pct": -1.5
     },
     {
-      "name": "医疗研发外包",
-      "change_pct": -4.67
+      "name": "半导体设备",
+      "change_pct": -1.2
     },
     {
-      "name": "玻纤制造",
-      "change_pct": -4.65
+      "name": "激光设备",
+      "change_pct": -1.16
     }
   ],
   "status": "ok"
