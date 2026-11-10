@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-09T01:38:10.484612+00:00",
+  "generated_at": "2026-11-10T04:13:30.432877+00:00",
   "indices": [
     {
       "code": "000001",
       "name": "上证指数",
-      "price": 3656.97,
-      "change_pct": 0.21,
+      "price": 3662.81,
+      "change_pct": 0.06,
       "market": "cn"
     },
     {
       "code": "000300",
       "name": "沪深300",
-      "price": 4058.4,
-      "change_pct": 0.1,
+      "price": 4058.95,
+      "change_pct": 0.07,
       "market": "cn"
     },
     {
       "code": "000688",
       "name": "科创50",
-      "price": 1258.76,
-      "change_pct": 0.44,
+      "price": 1270.14,
+      "change_pct": 1.05,
       "market": "cn"
     }
   ],
@@ -28,52 +28,52 @@
     "up": 2750,
     "down": 1500,
     "flat": 750,
-    "limit_up": 28,
-    "limit_down": 1,
+    "limit_up": 51,
+    "limit_down": 0,
     "note": "estimated breadth from index direction; limit up/down from AkShare"
   },
   "sectors_top": [
     {
+      "name": "文字媒体",
+      "change_pct": 8.61
+    },
+    {
       "name": "其他数字媒体",
-      "change_pct": 8.45
+      "change_pct": 7.37
     },
     {
-      "name": "航天装备Ⅱ",
-      "change_pct": 5.24
+      "name": "影视动漫制作",
+      "change_pct": 6.59
     },
     {
-      "name": "航天装备Ⅲ",
-      "change_pct": 5.21
+      "name": "影视院线",
+      "change_pct": 6.04
     },
     {
-      "name": "燃料电池",
-      "change_pct": 5.07
-    },
-    {
-      "name": "卫浴电器",
-      "change_pct": 4.51
+      "name": "钨",
+      "change_pct": 5.84
     }
   ],
   "sectors_bottom": [
     {
-      "name": "种子",
-      "change_pct": -2.04
+      "name": "钾肥",
+      "change_pct": -2.63
     },
     {
-      "name": "教育运营及其他",
-      "change_pct": -1.61
+      "name": "民爆制品",
+      "change_pct": -1.78
     },
     {
-      "name": "纺织鞋类制造",
-      "change_pct": -1.5
+      "name": "动力煤",
+      "change_pct": -1.7
     },
     {
-      "name": "半导体设备",
-      "change_pct": -1.2
+      "name": "医美耗材",
+      "change_pct": -1.58
     },
     {
-      "name": "激光设备",
-      "change_pct": -1.16
+      "name": "油田服务",
+      "change_pct": -1.53
     }
   ],
   "status": "ok"
