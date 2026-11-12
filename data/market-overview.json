@@ -1,80 +1,50 @@
 {
-  "generated_at": "2026-11-10T04:13:30.432877+00:00",
-  "indices": [
-    {
-      "code": "000001",
-      "name": "上证指数",
-      "price": 3662.81,
-      "change_pct": 0.06,
-      "market": "cn"
-    },
-    {
-      "code": "000300",
-      "name": "沪深300",
-      "price": 4058.95,
-      "change_pct": 0.07,
-      "market": "cn"
-    },
-    {
-      "code": "000688",
-      "name": "科创50",
-      "price": 1270.14,
-      "change_pct": 1.05,
-      "market": "cn"
-    }
-  ],
-  "breadth": {
-    "total": 5000,
-    "up": 2750,
-    "down": 1500,
-    "flat": 750,
-    "limit_up": 51,
-    "limit_down": 0,
-    "note": "estimated breadth from index direction; limit up/down from AkShare"
-  },
+  "generated_at": "2026-11-12T02:54:55.828428+00:00",
+  "indices": [],
+  "breadth": {},
   "sectors_top": [
     {
-      "name": "文字媒体",
-      "change_pct": 8.61
+      "name": "半导体设备",
+      "change_pct": 3.93
     },
     {
-      "name": "其他数字媒体",
-      "change_pct": 7.37
+      "name": "卫浴电器",
+      "change_pct": 3.4
     },
     {
-      "name": "影视动漫制作",
-      "change_pct": 6.59
+      "name": "集成电路制造",
+      "change_pct": 3.13
     },
     {
-      "name": "影视院线",
-      "change_pct": 6.04
+      "name": "集成电路封测",
+      "change_pct": 3.02
     },
     {
-      "name": "钨",
-      "change_pct": 5.84
+      "name": "半导体材料",
+      "change_pct": 3.0
     }
   ],
   "sectors_bottom": [
     {
-      "name": "钾肥",
-      "change_pct": -2.63
+      "name": "视频媒体",
+      "change_pct": -4.67
     },
     {
-      "name": "民爆制品",
-      "change_pct": -1.78
+      "name": "黄金",
+      "change_pct": -4.2
     },
     {
-      "name": "动力煤",
-      "change_pct": -1.7
+      "name": "贵金属",
+      "change_pct": -3.83
     },
     {
-      "name": "医美耗材",
-      "change_pct": -1.58
+      "name": "其他数字媒体",
+      "change_pct": -3.74
     },
     {
-      "name": "油田服务",
-      "change_pct": -1.53
+      "name": "白银",
+      "change_pct": -2.59
     }
   ],
-  "status": "ok"
+  "status": "failed"
 }
