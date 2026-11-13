@@ -1,50 +1,8 @@
 {
-  "generated_at": "2026-11-12T02:54:55.828428+00:00",
+  "generated_at": "2026-11-13T02:36:48.781520+00:00",
   "indices": [],
   "breadth": {},
-  "sectors_top": [
-    {
-      "name": "半导体设备",
-      "change_pct": 3.93
-    },
-    {
-      "name": "卫浴电器",
-      "change_pct": 3.4
-    },
-    {
-      "name": "集成电路制造",
-      "change_pct": 3.13
-    },
-    {
-      "name": "集成电路封测",
-      "change_pct": 3.02
-    },
-    {
-      "name": "半导体材料",
-      "change_pct": 3.0
-    }
-  ],
-  "sectors_bottom": [
-    {
-      "name": "视频媒体",
-      "change_pct": -4.67
-    },
-    {
-      "name": "黄金",
-      "change_pct": -4.2
-    },
-    {
-      "name": "贵金属",
-      "change_pct": -3.83
-    },
-    {
-      "name": "其他数字媒体",
-      "change_pct": -3.74
-    },
-    {
-      "name": "白银",
-      "change_pct": -2.59
-    }
-  ],
+  "sectors_top": [],
+  "sectors_bottom": [],
   "status": "failed"
 }
