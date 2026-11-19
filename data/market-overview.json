@@ -1,50 +1,8 @@
 {
-  "generated_at": "2026-11-18T03:33:23.222354+00:00",
+  "generated_at": "2026-11-19T03:12:02.600156+00:00",
   "indices": [],
   "breadth": {},
-  "sectors_top": [
-    {
-      "name": "冰洗",
-      "change_pct": 4.46
-    },
-    {
-      "name": "通信工程及服务",
-      "change_pct": 4.02
-    },
-    {
-      "name": "白色家电",
-      "change_pct": 3.44
-    },
-    {
-      "name": "厨房小家电",
-      "change_pct": 2.83
-    },
-    {
-      "name": "彩电",
-      "change_pct": 2.73
-    }
-  ],
-  "sectors_bottom": [
-    {
-      "name": "院线",
-      "change_pct": -6.66
-    },
-    {
-      "name": "医疗研发外包",
-      "change_pct": -5.02
-    },
-    {
-      "name": "影视院线",
-      "change_pct": -4.95
-    },
-    {
-      "name": "百货",
-      "change_pct": -4.64
-    },
-    {
-      "name": "黄金",
-      "change_pct": -4.59
-    }
-  ],
+  "sectors_top": [],
+  "sectors_bottom": [],
   "status": "failed"
 }
