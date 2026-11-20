@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-11-19T03:12:02.600156+00:00",
+  "generated_at": "2026-11-20T03:04:48.623822+00:00",
   "indices": [],
   "breadth": {},
-  "sectors_top": [],
-  "sectors_bottom": [],
+  "sectors_top": [
+    {
+      "name": "其他数字媒体",
+      "change_pct": 13.49
+    },
+    {
+      "name": "印制电路板",
+      "change_pct": 2.6
+    },
+    {
+      "name": "种子",
+      "change_pct": 2.03
+    },
+    {
+      "name": "元件",
+      "change_pct": 1.7
+    },
+    {
+      "name": "生猪养殖",
+      "change_pct": 1.13
+    }
+  ],
+  "sectors_bottom": [
+    {
+      "name": "院线",
+      "change_pct": -6.47
+    },
+    {
+      "name": "厨房小家电",
+      "change_pct": -5.81
+    },
+    {
+      "name": "稀土",
+      "change_pct": -5.61
+    },
+    {
+      "name": "其他黑色家电",
+      "change_pct": -5.21
+    },
+    {
+      "name": "涂料",
+      "change_pct": -5.19
+    }
+  ],
   "status": "failed"
 }
